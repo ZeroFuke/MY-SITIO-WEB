@@ -1,0 +1,15 @@
+/*transaciones de enlaces*/
+a:hover{
+    color: rgb(193, 188, 188);
+    font-weight: bolder;
+}
+
+.servico-boton-solicitud:hover{
+    background-color: black;
+    color: white;
+}
+
+.boton-enviar-contactanos:hover{
+    background-color: black;
+    color: white;
+}

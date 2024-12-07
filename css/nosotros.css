@@ -1,0 +1,27 @@
+.caja-nosotros{
+    display: flex;
+    justify-content: center;
+}
+
+.inicio{
+    width: 90%;
+    height: 600px;
+    
+    .titulos-nosotros{
+        text-align: center;
+        padding-top: 25px;
+        padding-bottom: 10px;
+        font-size: 35px;
+        color: rgb(161, 161, 161);
+        text-shadow: 4px 3px 10px;
+    }
+    
+    .texto-nosotros{
+        color: rgb(197, 195, 195);
+        font-size: 20px;
+    }
+    
+
+
+}
+

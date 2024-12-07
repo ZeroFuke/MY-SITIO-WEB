@@ -1,0 +1,43 @@
+form{
+display: flex;
+}
+
+.caja-contactonos{
+    width: 43%;
+    display: flex;
+    flex-direction: column ;
+    flex-wrap: wrap;
+    gap: 33px;
+    margin: 40px;
+    height: 500px;
+}
+
+input{
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+    
+}
+
+textarea {
+        width: 390px;
+        height: 75px;
+        resize: none;
+        overflow: auto;
+        font-size: 20px;
+        font-weight: bolder;
+}
+
+.boton-enviar-contactanos{
+    width: 200px;
+    height: 30px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.label-contactanos{
+    font-size: 18px;
+    font-weight: 700;
+    color: rgb(173, 174, 174);
+}
