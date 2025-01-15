@@ -50,7 +50,7 @@ body{
     flex-direction: column;
     margin: 0; 
     height: 100vh;
-    background-image: url('/imagen/Home.png'); 
+    background-color: blue;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat; 
